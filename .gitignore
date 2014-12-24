@@ -1,0 +1,5 @@
+target
+build
+.gradle
+application-test.properties
+application-dev.properties
